@@ -1,6 +1,6 @@
 # accusation
 
-puyi he
+puyi
 
 University of California, Santa Cruz  学生. 圣克鲁斯, CA
 
