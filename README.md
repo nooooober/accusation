@@ -4,6 +4,9 @@ puyi he
 
 University of California, Santa Cruz  学生. 圣克鲁斯, CA
 
+别人帮写的 cse 101
+
+
 聊天记录
 
 ![/](https://raw.githubusercontent.com/nooooober/accusation/main/assert/微信图片_20231212213849.jpg)
