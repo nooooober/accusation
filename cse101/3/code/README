@@ -1,0 +1,12 @@
+### submit file
+* Makefile
+* List.c
+* List.h
+* Graph.c
+* Graph.h
+* FindComponents.c
+* GraphTest.c
+* README
+
+### about visit time setting:
+* i use a local variable time_stamp in DFS function, time_stamp will be transport as a point parameter in visit function

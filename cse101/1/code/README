@@ -1,0 +1,15 @@
+## Submit file
+* List.h
+* List.c
+* ListTest.c
+* Lex.c
+* Makefile
+* README
+
+## Description
+* List.h: Define list ADT and related operations
+* List.c: Implementation of list operations
+* ListTest.c: Test various operations of list
+* Lex.c: Solve the insertion sort of the words in the file using the list structure i defined
+* Makefile: Compile the program
+* README: Introduce the role of the various files in this lab
