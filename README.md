@@ -4,7 +4,7 @@ puyi he
 
 University of California, Santa Cruz  学生. 圣克鲁斯, CA
 
-别人帮写的 cse 101
+他 cse 101 是我帮写的， cse101所写的代码基本都在上面了。 需要其他证明的 请本仓库联系我
 
 
 聊天记录
