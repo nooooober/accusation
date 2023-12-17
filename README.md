@@ -1,5 +1,7 @@
 # accusation
 
+这几天很多人看了本仓库， 看不下去的请像 University of California, Santa Cruz 这所学校的老师发邮件@其老师来本仓库看代码或者打架匿名举报。
+
 puyi he         
 
 University of California, Santa Cruz  学生. 圣克鲁斯, CA            2020-2023
