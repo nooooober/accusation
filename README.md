@@ -13,7 +13,7 @@ host:  olaf.soe.ucsc.edu
 user:  puhe
 
 他 cse 101 是我帮写的， cse101所写的代码基本都在上面了。 需要其他证明的 请本仓库联系我， 他还有其它课程也是找人写的
-
+除了 cse 101外，还有其他课程 大大小小 37次作业和 考试。
 cse101老师邮箱： [etekin@ucsc.edu](mailto:etekin@ucsc.edu)
 
 ​                    电话：+1 551-250-7436
